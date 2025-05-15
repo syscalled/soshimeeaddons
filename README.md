@@ -1,3 +1,3 @@
 # soshimeeaddons
-https://discord.gg/sby
-"# soshime" 
+main dev : soshimee
+2nd dev : MAR
